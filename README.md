@@ -9,3 +9,10 @@ This program conforms a decentralized decision-making system. It is developed to
 In order to increase the feasibility and flexibility of such systems agents are assigned with different roles. With the use of multi agent systems, the steel production scheduling problem becomes populated by several autonomous and heterogeneous intelligent agents with various goals, constraints, and capabilities. These agents can cooperate and coordinate their local schedules to generate desirable global schedules.
 
 Agents negotiate in auctions to assign materials to-be processed to precessing resources.
+
+
+FOLDER STRUCTURE:
+- DEMONSTRATION: provides a simplified case with few activated agents
+- SIMULATIONS: different simulations are performed to test robustness of the system
+
+- LOGS, DASHBOARD & CODE is provided on each section
